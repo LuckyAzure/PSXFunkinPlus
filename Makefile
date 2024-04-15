@@ -5,7 +5,7 @@ SRCS = src/main.c \
 	   \
        src/characters/bf/bf.c \
 	   \
-       src/characters/dad/dad.c \
+       src/characters/2sonic/2sonic.c \
 	   \
        src/characters/gf/gf.c \
        src/characters/gf/speaker.c \

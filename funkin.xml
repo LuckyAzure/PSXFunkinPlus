@@ -50,7 +50,7 @@
 				<file name = "bf.arc" type = "data" source = "iso/characters/bf/main.arc"/>
 				
 				<!-- Opponents -->
-				<file name = "dad.arc" type = "data" source = "iso/characters/dad/main.arc"/>
+				<file name = "2sonic.arc" type = "data" source = "iso/characters/2sonic/main.arc"/>
 				
 				<!-- Girlfriend -->
 				<file name = "gf.arc" type = "data" source = "iso/characters/gf/main.arc"/>
@@ -61,24 +61,13 @@
 			<!-- Songs -->
 			<dir name = "songs">
 				<!-- Bopeebo charts -->
-				<file name = "1.1e.cht" type = "data" source = "iso/songs/bopeebo/bopeebo-easy.cht"/>
-				<file name = "1.1n.cht" type = "data" source = "iso/songs/bopeebo/bopeebo.cht"/>
-				<file name = "1.1h.cht" type = "data" source = "iso/songs/bopeebo/bopeebo-hard.cht"/>
+				<file name = "1.1e.cht" type = "data" source = "iso/songs/2torial/2torial-easy.cht"/>
+				<file name = "1.1n.cht" type = "data" source = "iso/songs/2torial/2torial.cht"/>
+				<file name = "1.1h.cht" type = "data" source = "iso/songs/2torial/2torial-hard.cht"/>
 				<!-- Fresh charts -->
-				<file name = "1.2e.cht" type = "data" source = "iso/songs/fresh/fresh-easy.cht"/>
-				<file name = "1.2n.cht" type = "data" source = "iso/songs/fresh/fresh.cht"/>
-				<file name = "1.2h.cht" type = "data" source = "iso/songs/fresh/fresh-hard.cht"/>
-				<!-- Dadbattle charts -->
-				<file name = "1.3e.cht" type = "data" source = "iso/songs/dadbattle/dadbattle-easy.cht"/>
-				<file name = "1.3n.cht" type = "data" source = "iso/songs/dadbattle/dadbattle.cht"/>
-				<file name = "1.3h.cht" type = "data" source = "iso/songs/dadbattle/dadbattle-hard.cht"/>
-				<!-- Tutorial charts -->
-				<file name = "1.4e.cht" type = "data" source = "iso/songs/tutorial/tutorial-easy.cht"/>
-				<file name = "1.4n.cht" type = "data" source = "iso/songs/tutorial/tutorial.cht"/>
-				<file name = "1.4h.cht" type = "data" source = "iso/songs/tutorial/tutorial-hard.cht"/>
-
-				<!-- Blammed charts -->
-				<file name = "2.1h.cht" type = "data" source = "iso/songs/blammed/blammed.cht"/>
+				<file name = "1.2e.cht" type = "data" source = "iso/songs/free-4-me/free-4-me-easy.cht"/>
+				<file name = "1.2n.cht" type = "data" source = "iso/songs/free-4-me/free-4-me.cht"/>
+				<file name = "1.2h.cht" type = "data" source = "iso/songs/free-4-me/free-4-me-hard.cht"/>
 			</dir>
 			
 			<!-- Music -->
@@ -87,12 +76,6 @@
 				<dummy sectors="128"/>
 				
 				<file name = "1.xa" type = "xa" source = "iso/songs/1.xa"/>
-				<dummy sectors="128"/>
-				
-				<file name = "2.xa" type = "xa" source = "iso/songs/2.xa"/>
-				<dummy sectors="128"/>
-				
-				<file name = "3.xa" type = "xa" source = "iso/songs/3.xa"/>
 				<dummy sectors="128"/>
 			</dir>
 			

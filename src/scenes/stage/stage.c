@@ -3,7 +3,7 @@
 #include "../../characters/bf/bf.h"
 
 //Opponents
-#include "../../characters/dad/dad.h"
+#include "../../characters/2sonic/2sonic.h"
 
 //Girlfriend
 #include "../../characters/gf/gf.h"

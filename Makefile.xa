@@ -1,8 +1,6 @@
 all: \
 	iso/music/menu.xa \
 	iso/songs/1.xa \
-	iso/songs/2.xa \
-	iso/songs/3.xa \
 
 # XA converts
 iso/%.xa: iso/%.ogg
@@ -15,10 +13,4 @@ iso/%.xa:
 iso/music/menu.xa: iso/music/freakymenu.xa iso/music/gameover.xa
 
 # 1
-iso/songs/1.xa: iso/songs/bopeebo/Merged.xa iso/songs/bopeebo/Inst.xa iso/songs/fresh/Merged.xa iso/songs/fresh/Inst.xa
-
-# 2
-iso/songs/2.xa: iso/songs/dadbattle/Merged.xa iso/songs/dadbattle/Inst.xa iso/songs/tutorial/Inst.xa
-
-# 3
-iso/songs/3.xa: iso/songs/blammed/Merged.xa iso/songs/blammed/Inst.xa
+iso/songs/1.xa: iso/songs/2torial/Merged.xa iso/songs/2torial/Inst.xa iso/songs/free-4-me/Merged.xa iso/songs/free-4-me/Inst.xa

@@ -9,8 +9,6 @@ typedef enum
 	XA_Menu,   //MENU.XA
 	
 	XA_1, //1.XA
-	XA_2, //2.XA
-	XA_3, //3.XA
 	
 	XA_Max,
 } XA_File;
@@ -21,13 +19,8 @@ typedef enum
 	XA_GettinFreaky, //Gettin' Freaky
 	XA_GameOver,     //Game Over
 	//WEEK1A.XA
-	XA_Bopeebo, //Bopeebo
-	XA_Fresh,   //Fresh
-	//WEEK1B.XA
-	XA_Dadbattle, //DadBattle
-	XA_Tutorial,  //Tutorial
-	//WEEK3B.XA
-	XA_Blammed, //Blammed
+	XA_2torial, //Bopeebo
+	XA_free4me,   //Fresh
 	
 	XA_TrackMax,
 } XA_Track;

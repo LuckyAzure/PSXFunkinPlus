@@ -27,14 +27,11 @@ typedef enum
 {
 	StageId_1_1,
 	StageId_1_2,
-	StageId_1_3,
-	StageId_1_4,
-	StageId_1_5,
 	
 	StageId_Max
 } StageId;
 
-#define StageId_LastVanilla StageId_1_5
+#define StageId_LastVanilla StageId_1_2
 
 typedef enum
 {

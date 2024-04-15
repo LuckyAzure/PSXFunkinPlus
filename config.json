@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"fnfanim" : "idle",
+			"imgname" : "idle",
+			"hname"   : "Idle"
+		},
+		{
+			"fnfanim" : "singLEFT",
+			"imgname" : "left",
+			"hname"   : "Left"
+		},
+		{
+			"fnfanim" : "singDOWN",
+			"imgname" : "down",
+			"hname"   : "Down"
+		},
+		{
+			"fnfanim" : "singUP",
+			"imgname" : "up",
+			"hname"   : "Up"
+		},
+		{
+			"fnfanim" : "singRIGHT",
+			"imgname" : "right",
+			"hname"   : "Right"
+		},
+		{
+			"fnfanim" : "spin",
+			"imgname" : "spindash",
+			"hname"   : "Spindash"
+		}
+	],
+	"input":  "iso/characters/2sonic/2sonic",
+	"outdir": "iso/characters/2sonic/",
+	"charname" : "2SONIC",
+	"optimize" : false,
+	"optimizename" : "2sonic",
+	"arcname" : "ArcMain",
+	"vrampos" : [448, 256, 0, 481],
+	"bpp" : 8,
+	"resize" : 0.24,
+	"xmlscale" : 1.0,
+	"padding" : 2,
+	"max_width" : 256,
+	"max_height" : 256
+}

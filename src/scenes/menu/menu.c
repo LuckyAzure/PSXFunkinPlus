@@ -543,7 +543,6 @@ void Menu_Tick(void)
 				const char *name;
 				const char *tracks[3];
 			} menu_options[] = {
-				{NULL, StageId_1_4, "TUTORIAL", {"TUTORIAL", NULL, NULL}},
 				{"1", StageId_1_1, "DADDY DEAREST", {"BOPEEBO", "FRESH", "DADBATTLE"}}
 			};
 			
@@ -672,10 +671,8 @@ void Menu_Tick(void)
 				u32 col;
 				const char *text;
 			} menu_options[] = {
-				{{174,0,34,30}, StageId_1_4, 0xFFA5004A, "TUTORIAL"},
 				{{140,0,33,39}, StageId_1_1, 0xFFAF66CE, "BOPEEBO"},
-				{{140,0,33,39}, StageId_1_2, 0xFFAF66CE, "FRESH"},
-				{{140,0,33,39}, StageId_1_3, 0xFFAF66CE, "DADBATTLE"}
+				{{140,0,33,39}, StageId_1_2, 0xFFAF66CE, "FRESH"}
 			};
 			
 			//Initialize page
